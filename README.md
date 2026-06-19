@@ -49,7 +49,7 @@ This analysis answers key business questions:
 
 ## Executive Overview Dashboard
 
-![Executive Overview](Assets/Dashboard%20Visualization/Executive%20Overview.png)
+![Executive Overview](Assets(Dashboard%20Visualization)/Executive%20Overview.png)
 
 ### Features
 - Total Revenue KPI
@@ -65,7 +65,7 @@ Provides a high-level summary of sales performance and overall business growth.
 
 ## Category Deep Dive Dashboard
 
-![Category Deep Dive](Assets/Dashboard%20Visualization/Category%20Deep%20Dive.png)
+![Category Deep Dive](Assets/Category_Deep_Dive.png)
 
 ### Features
 - Revenue by Product Category
@@ -80,7 +80,7 @@ Identifies top-performing categories and opportunities for inventory optimizatio
 
 ## Regional & Payment Analysis Dashboard
 
-![Regional and Payment Analysis](Assets/Dashboard%20Visualization/Regional%20and%20Payment%20Analysis.png)
+![Regional Payment Analysis](Assets/Regional_Payment_Analysis.png)
 
 ### Features
 - Revenue by Region
@@ -95,7 +95,7 @@ Highlights geographical performance and customer payment preferences.
 
 ## Discount & Customer Sentiment Dashboard
 
-![Discount and Customer Sentiments](Assets/Dashboard%20Visualization/Discount%20and%20Customer%20Sentiments.png)
+![Discount Customer Sentiments](Assets/Discount_Customer_Sentiments.png)
 
 ### Features
 - Revenue by Discount Tier
