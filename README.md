@@ -65,7 +65,7 @@ Provides a high-level summary of sales performance and overall business growth.
 
 ## Category Deep Dive Dashboard
 
-![Category Deep Dive](Assets/Category_Deep_Dive.png)
+![Category Deep Dive](Assets(Dashboard%20Visualization)/Category%20Deep%20Dive.png)
 
 ### Features
 - Revenue by Product Category
@@ -80,7 +80,7 @@ Identifies top-performing categories and opportunities for inventory optimizatio
 
 ## Regional & Payment Analysis Dashboard
 
-![Regional Payment Analysis](Assets/Regional_Payment_Analysis.png)
+![Regional and Payment Analysis](Assets(Dashboard%20Visualization)/Regional%20and%20Payment%20Analysis.png)
 
 ### Features
 - Revenue by Region
@@ -95,7 +95,7 @@ Highlights geographical performance and customer payment preferences.
 
 ## Discount & Customer Sentiment Dashboard
 
-![Discount Customer Sentiments](Assets/Discount_Customer_Sentiments.png)
+![Discount and Customer Sentiments](Assets(Dashboard%20Visualization)/Discount%20and%20Customer%20Sentiments.png)
 
 ### Features
 - Revenue by Discount Tier
